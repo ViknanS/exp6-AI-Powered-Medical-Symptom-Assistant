@@ -1,0 +1,90 @@
+AI-POWERED MEDICAL SYMPTOM ASSISTANT - ANALYSIS REPORT
+=======================================================
+Date  : 05/11/2026 09:01
+Model : llama3.2:latest
+=======================================================
+
+MEDICAL SYMPTOM ANALYSIS
+----------------------------------------------------------------
+1. Reported Symptoms:
+   * Fever
+   * Cough
+   * Painful throat
+
+2. Patient Information:
+   Age       : 22
+   Sex       : Female
+   Duration  : 2 days
+   Severity  : Mild
+   History   : No known relevant condition
+
+3. Possible Conditions:
+   1. The patient's symptoms of fever, cough, and painful
+      throat could be related to several possible
+      conditions, including a viral upper respiratory tract
+      infection, such as the common cold or flu.
+   2. Another possibility is a mild bacterial infection,
+      such as strep throat.
+   3. However, it is essential to note that these are just
+      possibilities, and the information provided does not
+      provide enough detail to establish a diagnosis
+
+4. Explanation:
+   The presence of fever and cough suggests an infectious
+   process, while the painful throat could indicate
+   inflammation or irritation in the throat area.
+   The mild severity of symptoms may suggest a
+   self-limiting condition, but it is crucial to consider
+   that some conditions can progress or worsen over time
+
+5. Missing Information:
+   * Allergies
+
+6. Follow-up Questions:
+   1. What is your current body temperature?
+   2. Are there any swollen lymph nodes or glands in your
+      neck?
+   3. Is the white patch in your throat a thick, yellowish
+      crust or a thin layer of mucus?
+   4. Is your cough dry and hacking, or does it bring up
+      mucus?
+   5. How much fluid are you drinking per day?
+
+7. Medical Attention Guidance:
+   If symptoms are severe, rapidly worsening, or
+   concerning, seek appropriate professional medical care.
+   
+   Severity reported by the user : Mild
+   This system does not make a clinical triage decision.
+
+8. Disclaimer:
+   This AI-generated response is intended for
+   educational and informational purposes only.
+   It is not a medical diagnosis and does not
+   replace advice from a qualified healthcare
+   professional.
+   For serious, worsening or urgent symptoms,
+   seek appropriate medical care.
+----------------------------------------------------------------
+
+RAW MODEL RESPONSE
+-------------------------------------------------------
+Possible Conditions
+-------------------
+The patient's symptoms of fever, cough, and painful throat could be related to several possible conditions, including a viral upper respiratory tract infection, such as the common cold or flu. Another possibility is a mild bacterial infection, such as strep throat. However, it is essential to note that these are just possibilities, and the information provided does not provide enough detail to establish a diagnosis.
+
+Explanation
+-----------
+The presence of fever and cough suggests an infectious process, while the painful throat could indicate inflammation or irritation in the throat area. The mild severity of symptoms may suggest a self-limiting condition, but it is crucial to consider that some conditions can progress or worsen over time.
+
+Additional Information Needed
+-------------------------------
+To determine the underlying cause of the patient's symptoms, further information would be needed, such as:
+
+* A detailed medical history, including any previous illnesses or allergies
+* Results from a physical examination, including throat swabs or other diagnostic tests
+* Additional symptoms, such as difficulty breathing, chest pain, or swollen lymph nodes
+
+Medical Attention
+-----------------
+Given the patient's mild symptoms and lack of severe or concerning features, it may be possible to manage the condition with self-care measures. However, if symptoms worsen, persist, or are accompanied by other concerning signs, it is essential for the patient to consult a qualified healthcare professional for proper evaluation and treatment.

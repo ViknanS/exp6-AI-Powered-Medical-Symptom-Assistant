@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/session_state.json
+demos.log
+screenshots/old/
+screenshots/crop/
+*.command
+peek*.png
